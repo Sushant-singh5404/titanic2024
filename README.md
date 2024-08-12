@@ -1,1 +1,3 @@
-# titanic2024
+Titanic Survival Prediction
+
+https://logistic-regressionn.streamlit.app/
